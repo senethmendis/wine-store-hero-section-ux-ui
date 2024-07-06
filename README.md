@@ -1,5 +1,5 @@
 # Wine Store Hero Section UX UI
-![dp](https://github.com/senethmendis/travel-webbapp-ui-ux/blob/master/public/repo-cover.png)
+![dp](https://github.com/senethmendis/wine-store-hero-section-ux-ui/blob/main/public/thumb.png)
 
 ### Built With
 
