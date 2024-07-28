@@ -16,7 +16,7 @@ import { useGLTF } from "@react-three/drei";
 export default function WineBottle(props) {
   const { nodes, materials } = useGLTF("/3dwine.glb");
   return (
-    <group {...props} dispose={null}>
+    <group {...props} dispose={null} scale={1.3}>
       <group position={[0.019, 1.7, 5]} scale={[1, 2.6, 1]}>
         <mesh
           castShadow
