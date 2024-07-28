@@ -44,7 +44,12 @@ const Hero = () => {
               <WineBottle />
             </Suspense>
           </Stage>
-          <OrbitControls enableZoom={false} maxZoom={1.5} zoomToCursor={true} />
+          <OrbitControls
+            enableZoom={false}
+            maxZoom={1.5}
+            zoomToCursor={true}
+            autoRotate
+          />
         </Canvas>
       </div>
       <div className=" w-full md:w-1/3 h-full flex flex-col justify-between py-20 px-10 md:px-0 md:py-0">
